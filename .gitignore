@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+models/*.keras
+dataset/
+test_images/
+.streamlit/
